@@ -9,20 +9,26 @@ visiting this url:
 
 Then get started and running like so:
 
+<code>
  unzip ioerror-martus-linux-setup-*.zip
  cd ioerror-martus-linux-setup*/
  sudo ./package-install.sh 
  ./start-martus.sh
+</code>
 
 ==================
 
 Install the required packages on Ubuntu:
 
+<code>
   sudo ./package-install.sh
+</code>
 
 Run Martus:
 
+<code>
   ./start-martus.sh
+</code>
 
 Notes on binary blobs:
 
