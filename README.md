@@ -9,12 +9,14 @@ visiting this url:
 
 Then get started and running like so:
 
+<pre>
 <code>
  unzip ioerror-martus-linux-setup-*.zip
  cd ioerror-martus-linux-setup*/
  sudo ./package-install.sh 
  ./start-martus.sh
 </code>
+</pre>
 
 ==================
 
