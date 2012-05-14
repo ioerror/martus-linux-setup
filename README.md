@@ -3,7 +3,19 @@ martus-linux-setup
 
 I wanted to use Martus on Ubuntu and to use the HippieJVM rather than the
 Oracle nightmare. This package runs Martus with the
-<code>java-1.6.0-openjdk</code> JVM and should be entirely Free Software.
+<code>java-1.6.0-openjdk</code> JVM and should allow the entire software stack
+to be entirely comprised of Free Software.
+
+All software in client-release/ is covered under the respective licenses of the
+Martus software releases as detailed on their website:
+
+  https://www.martus.org/
+
+Martus is software released by Benetech:
+
+  https://www.benetech.org/
+
+This collection of scripts is Free Software as detailed in the LICENSE file.
 
 ==================
 
