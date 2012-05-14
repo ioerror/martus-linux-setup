@@ -1,6 +1,21 @@
 martus-linux-setup
 ==================
 
+
+For the extremely lazy or time limited people, download this package by
+visiting this url:
+
+ https://github.com/ioerror/martus-linux-setup/zipball/master
+
+Then get started and running like so:
+
+ unzip ioerror-martus-linux-setup-*.zip
+ cd ioerror-martus-linux-setup*/
+ sudo ./package-install.sh 
+ ./start-martus.sh
+
+==================
+
 Install the required packages on Ubuntu:
 
   sudo ./package-install.sh
