@@ -1,6 +1,11 @@
 martus-linux-setup
 ==================
 
+I wanted to use Martus on Ubuntu and to use the HippieJVM rather than the
+Oracle nightmare. This package runs Martus with the
+<code>java-1.6.0-openjdk</code> JVM and should be entirely Free Software.
+
+==================
 
 For the extremely lazy or time limited people, download this package by
 visiting this url:
